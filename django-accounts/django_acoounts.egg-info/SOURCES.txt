@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.py
+accounts/__init__.py
+accounts/admin.py
+accounts/apps.py
+accounts/models.py
+accounts/tests.py
+accounts/views.py
+accounts/migrations/0001_initial.py
+accounts/migrations/__init__.py
+accounts/templates/login.html
+django_acoounts.egg-info/PKG-INFO
+django_acoounts.egg-info/SOURCES.txt
+django_acoounts.egg-info/dependency_links.txt
+django_acoounts.egg-info/top_level.txt
